@@ -1,7 +1,7 @@
 arr = [7, 3, 12, 4, 8]
 
 max_val = arr[0]
-for i in range(1, 5):  
+for i in range(1, len(arr):  
     if arr[i] > max_val:
         max_val = arr[i]
 
